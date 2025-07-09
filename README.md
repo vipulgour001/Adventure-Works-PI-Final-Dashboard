@@ -58,12 +58,12 @@ The Power BI dashboard provides a comprehensive view of sales performance, custo
 
 **📊 Key Metrics:**
 
-Total Revenue: $24.9M
-Total Profit: $10.5M
-Orders: 25.2K
-Return Rate: 2.2%
-Monthly Revenue (Latest): $1.83M (↑ 3.31% from previous month)
-Revenue per Customer: $2.4K
+Total Revenue: $24.9M,
+Total Profit: $10.5M,
+Orders: 25.2K,
+Return Rate: 2.2%,
+Monthly Revenue (Latest): $1.83M (↑ 3.31% from previous month),
+Revenue per Customer: $2.4K $
 Unique Customers: 2,630
 
 **📈 Performance Trends:**
@@ -74,9 +74,9 @@ Revenue dipped unexpectedly on July 1, 2021 to $1,059, below expected levels.
 
 **📦 Top-Selling Products (by Orders)**
 
-Water Bottle - 30 oz. – 3,983 orders
-Patch Kit/8 Patches – 2,952 orders
-Mountain Tire Tube – 2,846 orders
+Water Bottle - 30 oz. – 3,983 orders,
+Patch Kit/8 Patches – 2,952 orders,
+Mountain Tire Tube – 2,846 orders $
 Sport-100 Helmet (Red/Blue/Black) – High revenue but relatively higher return rates (up to 3.33%)
 
 **🛑 Most Ordered Product Type: Tires and Tubes**
@@ -93,15 +93,9 @@ Revenue, profits, and orders show slight underperformance relative to set target
 
 **🔎 Insights:**
 
-Higher product cost correlates with increased product prices.
-Specific customer traits (married, parent, income between $30K–$120K, higher education) increase the likelihood of homeownership.
-Accessories and helmets are top contributors to revenue and returns, indicating both high popularity and quality concerns.
+The analysis reveals that higher product costs are strongly correlated with increased product prices, highlighting a direct cost-to-price relationship that can guide pricing strategies. Additionally, customer segmentation insights show that certain demographic traits—such as being married, having children, earning an income between $30K and $120K, and holding higher education degrees—significantly increase the likelihood of homeownership, which can be valuable for targeted marketing campaigns. Moreover, product category trends indicate that accessories and helmets are among the top contributors to overall revenue, underscoring their popularity; however, they also exhibit higher return rates, suggesting potential quality concerns that should be addressed to maintain customer satisfaction and brand reputation
 
 
 ✅ Overall Strategic Recommendation
 
-Product Focus: Promote bestsellers with low return rates; investigate quality issues in high-return items.
-Customer Loyalty: Engage high-spending customers with targeted offers or loyalty rewards.
-Market Expansion: Leverage growing regions like Australia, and explore underperforming geographies.
-Price Optimization: Use the cost-to-price influencer model to balance profitability and competitiveness.
-Data Monitoring: Continue using Power BI dashboards for real-time insights, anomaly detection, and decision-making.
+To drive business growth, a focused product strategy is essential—bestselling items with low return rates should be actively promoted through marketing and sales channels, while products with high return rates, such as certain helmet models, should be thoroughly reviewed for potential quality issues. Strengthening customer loyalty is another key priority; high-spending and repeat customers can be incentivized with personalised offers, loyalty programs, and exclusive rewards to encourage retention and increase lifetime value. In terms of market expansion, regions like Australia, which show promising performance, should be leveraged further, while efforts should also be made to analyze and improve underperforming geographies through localized strategies. On the pricing front, implementing the cost-to-price influencer model can help strike the right balance between profitability and market competitiveness by aligning pricing with production costs and customer willingness to pay. Lastly, the use of Power BI dashboards should be continued and enhanced to support real-time data monitoring, enable early anomaly detection, and drive data-driven decision-making across departments.
