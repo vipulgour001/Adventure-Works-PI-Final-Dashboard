@@ -1,0 +1,77 @@
+**📂 Dataset Introduction – Adventure Works**
+
+The Adventure Works dataset is a widely used sample business dataset provided by Microsoft, designed to simulate a real-world retail and manufacturing company specializing in outdoor gear and cycling products. It contains rich and diverse data across multiple domains, making it ideal for analytics, dashboard development, and business intelligence use cases.
+
+**🧩 Key Features:**
+
+Business Domain: Retail / E-commerce (Adventure sports and cycling products)
+
+Core Data Areas:
+
+Sales data (revenue, profit, order volume)
+Product details (categories, subcategories, pricing, return rates)
+Customer information (demographics, income level, occupation, purchase history)
+Time series (monthly performance over multiple years)
+Geographic segmentation (e.g., North America, Europe, Pacific regions)
+
+🎯 **Use Case Applications:**
+
+Performance tracking (revenue, profit, return rate)
+Sales trend analysis and forecasting
+Customer segmentation and behavior analysis
+Product performance comparison
+Key influencer and anomaly detection
+
+
+
+**🔍 Overview:**
+
+The Power BI dashboard provides a comprehensive view of sales performance, customer demographics, and product metrics for an adventure retail business. It covers revenue, profits, order trends, product returns, and customer behavior across time and categories.
+
+**📊 Key Metrics:**
+
+Total Revenue: $24.9M
+Total Profit: $10.5M
+Orders: 25.2K
+Return Rate: 2.2%
+Monthly Revenue (Latest): $1.83M (↑ 3.31% from previous month)
+Revenue per Customer: $2.4K
+Unique Customers: 2,630
+
+**📈 Performance Trends:**
+
+Monthly revenue is showing a positive trend.
+Adjusted profit rose by 140.91% from June 2021 to June 2022.
+Revenue dipped unexpectedly on July 1, 2021 to $1,059, below expected levels.
+
+**📦 Top-Selling Products (by Orders)**
+
+Water Bottle - 30 oz. – 3,983 orders
+Patch Kit/8 Patches – 2,952 orders
+Mountain Tire Tube – 2,846 orders
+Sport-100 Helmet (Red/Blue/Black) – High revenue but relatively higher return rates (up to 3.33%)
+
+**🛑 Most Ordered Product Type: Tires and Tubes**
+
+**🧑‍🤝‍🧑 Customer Demographics:**
+
+Most Orders by Income: 43.73% of customers fall within mid-income brackets.
+Top Occupations: Management, Skilled Manual, and Clerical roles.
+Key Influencers: Marital status, parental status, education, and income significantly influence home ownership among customers.
+
+**🎯 Performance vs Targets:**
+
+Revenue, profits, and orders show slight underperformance relative to set targets in recent months.
+
+**🔎 Insights:**
+
+Higher product cost correlates with increased product prices.
+Specific customer traits (married, parent, income between $30K–$120K, higher education) increase the likelihood of homeownership.
+Accessories and helmets are top contributors to revenue and returns, indicating both high popularity and quality concerns.
+
+
+
+
+
+
+
